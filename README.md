@@ -32,7 +32,7 @@ I’m looking to collaborate with like-minded individuals or teams on projects t
 ## 📫 How to Reach Me
 
 - **Email**: [Cyberslueth@consultant.com](mailto:Cyberslueth@consultant.com)
-- **GitHub**: [@Cyberslueth]([https://github.com/Cyberslueth](https://github.com/unaveragetech?tab=repositories))
+- **GitHub**: (https://github.com/unaveragetech?tab=repositories)
 
 
 ## 😄 Pronouns
