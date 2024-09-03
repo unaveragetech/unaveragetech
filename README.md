@@ -1,4 +1,3 @@
-```markdown
 # 👋 Hi, I’m @jesse winghart
 
 ## 👀 Interests
@@ -32,8 +31,7 @@ I’m looking to collaborate with like-minded individuals or teams on projects t
 ## 📫 How to Reach Me
 
 - **Email**: [Cyberslueth@consultant.com](mailto:Cyberslueth@consultant.com)
-- **GitHub**: (https://github.com/unaveragetech?tab=repositories)
-
+- **GitHub**: [@unaveragetech](https://github.com/unaveragetech?tab=repositories)
 
 ## 😄 Pronouns
 
@@ -60,7 +58,5 @@ Balancing these two worlds is a challenge, but it’s one that I embrace fully. 
 ---
 
 *"In the world of digital shadows, I thrive on illuminating the unseen, all while cherishing the light of home."*
-
-``` 
 
 
