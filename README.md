@@ -1,5 +1,5 @@
 ```markdown
-# 👋 Hi, I’m @Cyberslueth
+# 👋 Hi, I’m @jesse winghart
 
 ## 👀 Interests
 
@@ -37,15 +37,30 @@ I’m looking to collaborate with like-minded individuals or teams on projects t
 
 ## 😄 Pronouns
 
-- **He/Him**
+- **attack/helli**
 
 ## ⚡ Fun Fact
 
-Despite being deeply immersed in the digital world, I’m also a family person. With a three-year-old and another on the way, balancing the demands of tech projects with family life is a thrilling challenge that keeps me grounded. Whether it’s debugging a server issue or reading a bedtime story, I’m all in.
+Despite being deeply immersed in the digital world, I’m also a family person with a strong commitment to creating a balanced life. As a parent of a curious three-year-old and with another child on the way, I find myself navigating the intricate dance between complex tech projects and the vibrant, unpredictable world of parenting. 
+
+### Family and Tech: A Balancing Act
+
+- **Problem-Solving Across Worlds**: Whether it’s debugging a tricky server issue or solving the latest toddler mystery, my day is a blend of critical thinking and creative problem-solving. The skills I hone in tech often find surprising applications in parenting, and vice versa.
+  
+- **Adapting to Change**: Just like in the world of technology, where updates and new challenges are a constant, parenting demands flexibility and quick adaptation. The ability to switch gears from deep technical focus to being present in the moment with my family is a skill I cherish and continually develop.
+
+- **Teaching the Next Generation**: I’m passionate about sharing my love for technology with my kids. Whether it’s through playful coding games or simply fostering curiosity about how things work, I see my role as both a protector and a guide in their early explorations of the digital world.
+
+- **Grounded by Family**: While my work often takes me into the virtual realms of servers, code, and cybersecurity, my family keeps me grounded in the real world. The joy of reading a bedtime story or building a Lego tower is just as rewarding as launching a new project or solving a complex issue.
+
+### The Digital Parent
+
+Balancing these two worlds is a challenge, but it’s one that I embrace fully. It’s about more than just time management; it’s about being present in both arenas, finding joy in the little moments, and recognizing that both family and technology are integral parts of who I am.
 
 ---
 
-*"In the world of digital shadows, I thrive on illuminating the unseen."*
+*"In the world of digital shadows, I thrive on illuminating the unseen, all while cherishing the light of home."*
+
 ``` 
 
 
