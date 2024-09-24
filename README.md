@@ -16,11 +16,14 @@ https://unaveragetech.github.io/cyberslueth.github.io/
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unaveragetech&layout=compact&theme=radical) 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unaveragetech&theme=dark)
 
-## License Badge
-![License](https://img.shields.io/badge/SDUC-GREEN.svg)
-
 ## Featured Project: Autonomie
 [Autonomie](https://github.com/unaveragetech/autonomie) is an advanced Python agent designed for flexible automation in complex workflows.
+
+## 📜 License Badge
+<div style="display: flex; align-items: center; justify-content: center; padding: 10px; border: 2px solid #4CAF50; border-radius: 5px; background-color: #f9f9f9;">
+    <img src="https://img.shields.io/badge/SDUC-GREEN.svg" alt="License" style="margin-right: 10px;">
+    <span style="font-size: 18px; font-weight: bold; color: #333;">This project is licensed under the SDUC License</span>
+</div>
 
 The **SDUC License** (Small Dev Use Clause) allows small developers and content creators to freely use and modify this software for non-commercial and creative projects. Commercial use is permitted with proper attribution or under specific conditions.
   --->>   [**Empowering Small Developers with Flexibility**](https://gist.github.com/unaveragetech/a29c048c8b1ccad062066507bf183d9e)   <<---
