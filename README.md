@@ -6,6 +6,15 @@ https://unaveragetech.github.io/cyberslueth.github.io/
 > "The only way to do great work is to love what you do." — Steve Jobs
 ```
 
+```
+![UnAverageTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unaveragetech&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unaveragetech&layout=compact&theme=radical)
+### Featured Project: Autonomie
+[Autonomie](https://github.com/unaveragetech/autonomie) is an advanced Python agent designed for flexible automation in complex workflows.
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=unaveragetech)
+
+```
+
 
 
 The **SDUC License** (Small Dev Use Clause) allows small developers and content creators to freely use and modify this software for non-commercial and creative projects. Commercial use is permitted with proper attribution or under specific conditions.
@@ -67,16 +76,7 @@ Despite being deeply immersed in the digital world, I’m also a family person w
 Balancing these two worlds is a challenge, but it’s one that I embrace fully. It’s about more than just time management; it’s about being present in both arenas, finding joy in the little moments, and recognizing that both family and technology are integral parts of who I am.
 
 ---
-![UnAverageTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unaveragetech&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unaveragetech&layout=compact&theme=radical)
-### Featured Project: Autonomie
-[Autonomie](https://github.com/unaveragetech/autonomie) is an advanced Python agent designed for flexible automation in complex workflows.
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=unaveragetech)
-
-
-
-
-
+```
 *"In the world of digital shadows, I thrive on illuminating the unseen, all while cherishing the light of home."*
-
+```
 
