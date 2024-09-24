@@ -1,7 +1,10 @@
 # 👋 Hi, I’m @jesse winghart
 https://unaveragetech.github.io/cyberslueth.github.io/
 
-[View my custom SDUC License](https://gist.github.com/unaveragetech/a29c048c8b1ccad062066507bf183d9e)
+
+
+The **SDUC License** (Small Dev Use Clause) allows small developers and content creators to freely use and modify this software for non-commercial and creative projects. Commercial use is permitted with proper attribution or under specific conditions.
+--->>   [**Empowering Small Developers with Flexibility**](https://gist.github.com/unaveragetech/a29c048c8b1ccad062066507bf183d9e)   <<---
 
 ## 👀 Interests
 
