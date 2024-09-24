@@ -1,6 +1,10 @@
 # 👋 Hi, I’m @jesse winghart
 https://unaveragetech.github.io/cyberslueth.github.io/
 
+### Daily Coding Quote:
+> "The only way to do great work is to love what you do." — Steve Jobs
+
+
 
 
 The **SDUC License** (Small Dev Use Clause) allows small developers and content creators to freely use and modify this software for non-commercial and creative projects. Commercial use is permitted with proper attribution or under specific conditions.
@@ -63,6 +67,12 @@ Balancing these two worlds is a challenge, but it’s one that I embrace fully. 
 
 ---
 ![UnAverageTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unaveragetech&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unaveragetech&layout=compact&theme=radical)
+### Featured Project: Autonomie
+[Autonomie](https://github.com/unaveragetech/autonomie) is an advanced Python agent designed for flexible automation in complex workflows.
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=unaveragetech)
+
+
 
 
 
