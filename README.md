@@ -5,7 +5,8 @@ https://unaveragetech.github.io/cyberslueth.github.io/
 ### Daily Coding Quote:
 > "The only way to do great work is to love what you do." — Steve Jobs
 ```
-
+## License Badge
+![License](https://img.shields.io/badge/SDUC-GREEN.svg)
 
 ![UnAverageTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unaveragetech&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unaveragetech&layout=compact&theme=radical)
@@ -26,9 +27,6 @@ https://unaveragetech.github.io/cyberslueth.github.io/
 
 ## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=unaveragetech)
-
-## Contributions in the Last Year
-![Contributions](https://github.com/unaveragetech/github-readme-activity-graph/badge.svg)
 
 ## License Badge
 ![License](https://img.shields.io/badge/SDUC-GREEN.svg)
