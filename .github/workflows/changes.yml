@@ -19,5 +19,5 @@ jobs:
         uses: yokobot/string-changes-monitor@v0.1.2
         with:
           file: README.md               # Specify the file you want to monitor
-          line: 5                       # Specify the line number to monitor (1-based)
+          line: 6                       # Specify the line number to monitor (1-based)
           string: "The only way to do great work is to love what you do." — Steve Jobs # Exact expected string
