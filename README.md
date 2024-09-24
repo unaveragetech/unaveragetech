@@ -1,6 +1,12 @@
 # 👋 Hi, I’m @jesse winghart
 https://unaveragetech.github.io/cyberslueth.github.io/
 
+[View my custom SDUC License](https://gist.github.com/unaveragetech/a29c048c8b1ccad062066507bf183d9e)
+
+<script src="https://gist.github.com/unaveragetech/a29c048c8b1ccad062066507bf183d9e.js"></script>
+
+
+
 ## 👀 Interests
 
 I'm passionate about exploring the intersection of technology, security, and online investigations. My interests span a diverse range of areas, including:
