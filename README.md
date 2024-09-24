@@ -6,20 +6,16 @@ https://unaveragetech.github.io/cyberslueth.github.io/
 > "The only way to do great work is to love what you do." — Steve Jobs
 ```
 
-```
+
 ![UnAverageTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unaveragetech&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unaveragetech&layout=compact&theme=radical)
 ### Featured Project: Autonomie
 [Autonomie](https://github.com/unaveragetech/autonomie) is an advanced Python agent designed for flexible automation in complex workflows.
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=unaveragetech)
-
 ```
-
-
-
 The **SDUC License** (Small Dev Use Clause) allows small developers and content creators to freely use and modify this software for non-commercial and creative projects. Commercial use is permitted with proper attribution or under specific conditions.
   --->>   [**Empowering Small Developers with Flexibility**](https://gist.github.com/unaveragetech/a29c048c8b1ccad062066507bf183d9e)   <<---
-
+```
 ## 👀 Interests
 
 I'm passionate about exploring the intersection of technology, security, and online investigations. My interests span a diverse range of areas, including:
