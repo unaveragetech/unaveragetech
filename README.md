@@ -15,7 +15,8 @@ https://unaveragetech.github.io/cyberslueth.github.io/
 # GitHub Badges
 
 ## Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=unaveragetech)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=unaveragetech)--------------------------## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=unaveragetech&show_icons=true&theme=radical)
 
 ## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=unaveragetech&show_icons=true&theme=radical)
@@ -31,9 +32,6 @@ https://unaveragetech.github.io/cyberslueth.github.io/
 
 ## Contributions in the Last Year
 ![Contributions](https://github.com/unaveragetech/github-readme-activity-graph/badge.svg)
-
-## Social Media Links
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourhandle?style=social)](https://twitter.com/yourhandle)
 
 ## License Badge
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
