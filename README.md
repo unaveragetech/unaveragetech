@@ -62,6 +62,9 @@ Despite being deeply immersed in the digital world, I’m also a family person w
 Balancing these two worlds is a challenge, but it’s one that I embrace fully. It’s about more than just time management; it’s about being present in both arenas, finding joy in the little moments, and recognizing that both family and technology are integral parts of who I am.
 
 ---
+![UnAverageTech's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unaveragetech&show_icons=true&theme=radical)
+
+
 
 *"In the world of digital shadows, I thrive on illuminating the unseen, all while cherishing the light of home."*
 
