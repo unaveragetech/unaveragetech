@@ -8,6 +8,9 @@ https://unaveragetech.github.io/cyberslueth.github.io/
 # GitHub code spaces saves so much time 
 https://github.com/codespaces/
 
+Big shout to GitPages for great content hosting(i use alot of cdn's in my work) (when applicable)
+https://unaveragetech.github.io/CDN_MORE/
+
 ## Visitor Count and Profile Views
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=unaveragetech) 
 ![Profile Views](https://komarev.com/ghpvc/?username=unaveragetech)
