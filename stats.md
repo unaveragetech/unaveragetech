@@ -214,6 +214,8 @@ You can copy and paste the Markdown code directly into your `README.md` file. Th
 ```
 This is how the default Support badge looks.
 
+![Support](https://img.shields.io/badge/support-yes-brightgreen)
+
 #### 1. **Changing the Badge Text**
 
 To change the text displayed on the badge, modify the text segments in the URL. The text is divided into two parts: the label (the left side) and the message (the right side).
@@ -222,6 +224,8 @@ To change the text displayed on the badge, modify the text segments in the URL. 
 ```
 https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 ```
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<red>
+
 
 **Example:**
 ```markdown
@@ -285,6 +289,8 @@ You can combine all the customizations together to create a unique badge that me
 ```markdown
 ![Support](https://img.shields.io/badge/support-unavailable-%23FF5733?style=large)
 ```
+![Support](https://img.shields.io/badge/support-unavailable-%23FF5733?style=large)
+
 **Rendered Badge:**
 ![Support](https://img.shields.io/badge/support-unavailable-%23FF5733?style=large)
 
