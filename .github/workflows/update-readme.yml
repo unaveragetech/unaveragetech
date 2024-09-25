@@ -79,7 +79,7 @@ jobs:
       run: |
         sed -i "/^### Daily Coding Quote:/,+1c\\
 ### Daily Coding Quote:\\
-> \"${{ env.RANDOM_QUOTE }}\"" README.md
+
 
     - name: Commit changes
       run: |
