@@ -223,7 +223,7 @@ To change the text displayed on the badge, modify the text segments in the URL. 
 ```
 https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
 ```
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<red>
+https://img.shields.io/badge/<LABEl>-<this is an example>-<red>
 
 
 **Example:**
@@ -272,6 +272,8 @@ To change the size of the badge, you can append a query string to the URL with t
 ```
 https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>?style=<SIZE>
 ```
+![Support](https://img.shields.io/badge/support-help%20needed-brightgreen?style=large)
+
 
 **Example with Size:**
 ```markdown
