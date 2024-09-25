@@ -5,7 +5,8 @@ https://unaveragetech.github.io/cyberslueth.github.io/
 ### Daily Coding Quote:
 > "The only way to do great work is to love what you do." — Steve Jobs
 ```
-# GitHub Badges
+# GitHub code spaces saves so much time 
+https://github.com/codespaces/
 
 ## Visitor Count and Profile Views
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=unaveragetech) 
