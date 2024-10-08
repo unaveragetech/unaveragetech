@@ -1,10 +1,10 @@
 # 👋 Hi, I’m @jesse winghart
 https://unaveragetech.github.io/cyberslueth.github.io/
-```
+
 -----
 [Contact me](https://formsubmit.co/el/sumuhu) 
 -----
-```
+
 ```
 ### Daily Coding Quote:
 > "The only way to do great work is to love what you do." — Steve Jobs
