@@ -1,6 +1,5 @@
 # 👋 Hi, I’m @jesse winghart
 https://unaveragetech.github.io/cyberslueth.github.io/
-(email me here ) https://formsubmit.co/el/sumuhu
 ![Contact me](https://formsubmit.co/el/sumuhu) 
 ```
 ### Daily Coding Quote:
