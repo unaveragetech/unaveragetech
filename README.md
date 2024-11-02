@@ -1,6 +1,8 @@
 # 👋 Hi, I’m @jesse winghart
 https://unaveragetech.github.io/cyberslueth.github.io/
 
+- **[Buy me a coffee.. maybe help pay for these projects?](https://www.paypal.com/donate/?hosted_button_id=2RXWCC28FJ79N)**
+
 -----
 [Contact me](https://formsubmit.co/el/sumuhu) 
 -----
