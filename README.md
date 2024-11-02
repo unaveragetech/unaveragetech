@@ -68,8 +68,8 @@ I’m looking to collaborate with like-minded individuals or teams on projects t
 
 ## 📫 How to Reach Me
 
-- **Email**: [Cyberslueth@consultant.com](mailto:Cyberslueth@consultant.com)
-- **GitHub**: [@unaveragetech](https://github.com/unaveragetech?tab=repositories)
+- **Email**: [Contact me](https://formsubmit.co/el/sumuhu) 
+- **GitHub**: [@unaveragetech](https://github.com/unaveragetech)
 
 ## 😄 Pronouns
 
