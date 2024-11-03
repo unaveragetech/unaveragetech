@@ -27,7 +27,11 @@ https://unaveragetech.github.io/CDN_MORE/
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=unaveragetech&theme=dark)
 
 ## Featured Project: Autonomie
-[Autonomie](https://github.com/unaveragetech/autonomie) is an advanced Python agent designed for flexible automation in complex workflows.
+- [Autonomie-wip](https://github.com/unaveragetech/autonomie) is an advanced Python agent designed for flexible automation in complex workflows.
+- [Pages.x.crawler](https://github.com/unaveragetech/PagesXcrawler) self contained web crawler and scraper
+- [Redditbot](https://github.com/unaveragetech/redditbot) actions based reddit bot with defined triggers and responses--/wip will eventually be able to run code from reddit using codespaces
+- [infobroker](https://github.com/unaveragetech/Infobroker)a simple corpus of information using yfinance and cli to build and learn about stocks and profiles
+
 
 ## 📜 License Badge
 <div style="display: flex; align-items: center; justify-content: center; padding: 10px; border: 2px solid #4CAF50; border-radius: 5px; background-color: #f9f9f9;">
