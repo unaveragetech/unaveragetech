@@ -36,7 +36,7 @@ https://unaveragetech.github.io/CDN_MORE/
 ## 📜 License Badge
 <div style="display: flex; align-items: center; justify-content: center; padding: 10px; border: 2px solid #4CAF50; border-radius: 5px; background-color: #f9f9f9;">
     <img src="https://img.shields.io/badge/SDUC-GREEN.svg" alt="License" style="margin-right: 10px;">
-    <span style="font-size: 18px; font-weight: bold; color: #333;">This project is licensed under the SDUC License</span>
+    <span style="font-size: 18px; font-weight: bold; color: #333;">This project is licensed under the SDUC License</span> (https://gist.github.com/unaveragetech/a29c048c8b1ccad062066507bf183d9e)
 </div>
 
 The **SDUC License** (Small Dev Use Clause) allows small developers and content creators to freely use and modify this software for non-commercial and creative projects. Commercial use is permitted with proper attribution or under specific conditions.
