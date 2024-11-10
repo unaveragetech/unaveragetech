@@ -8,7 +8,7 @@ https://unaveragetech.github.io/cyberslueth.github.io/
 -----
 
 ```
-### Daily Coding Quote:
+### Coding Quote:
 > "The only way to do great work is to love what you do." — Steve Jobs
 ```
 # GitHub code spaces saves so much time 
