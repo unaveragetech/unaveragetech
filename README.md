@@ -9,7 +9,7 @@ https://unaveragetech.github.io/cyberslueth.github.io/
 
 ```
 ### Coding Quote:
-> Some "sandboxes" are just "dirt boxes" — Travius the Mage
+> Some sandboxes are just dirt boxes — Travius the Mage
 
 # GitHub code spaces saves so much time 
 https://github.com/codespaces/
