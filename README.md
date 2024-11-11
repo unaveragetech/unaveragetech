@@ -9,8 +9,8 @@ https://unaveragetech.github.io/cyberslueth.github.io/
 
 ```
 ### Coding Quote:
-> Some sandboxes are just dirt boxes — Travius the Mage
-
+> "The only way to do great work is to love what you do." — Steve Jobs
+```
 # GitHub code spaces saves so much time 
 https://github.com/codespaces/
 
@@ -101,4 +101,3 @@ Balancing these two worlds is a challenge, but it’s one that I embrace fully. 
 ```
 *"In the world of digital shadows, I thrive on illuminating the unseen, all while cherishing the light of home."*
 ```
-
